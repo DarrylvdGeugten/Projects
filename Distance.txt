@@ -1,0 +1,3 @@
+Gas type: E95
+Gas price: 1.9
+Car usage: 7.5
